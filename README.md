@@ -3,8 +3,8 @@ Context-aware smart contracts for blockchain IoT systems
 
 It contains 2 directories:
 
-1. 'contracts': Holds hems.sol contract with the artifacts.
-2. 'app': Holds app scripts for the dApp.
+1. 'contracts': contains the ContextAwareSmartContract.sol contract with the artifacts.
+2. 'app': contains javascript application scripts for the dApp (decentralized application).
 
 
 ## DIRECTORIES
