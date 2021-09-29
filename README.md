@@ -40,3 +40,8 @@ Sensors libraries:
 8. Send a private transactions and interact with contract privately by running the app.js on the terminal.
 
 Output from script will appear in terminal.
+
+## iBELab - Intelligent Blockchain Engineering Lab.
+https://ibel.korea.ac.kr/
+Korea University 
+
