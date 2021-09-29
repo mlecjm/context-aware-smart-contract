@@ -43,5 +43,5 @@ Output from script will appear in terminal.
 
 ## iBELab - Intelligent Blockchain Engineering Lab.
 https://ibel.korea.ac.kr/
-Korea University 
+- Korea University 
 
