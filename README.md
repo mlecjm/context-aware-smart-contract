@@ -1,5 +1,4 @@
-# context-aware-smart-contract
-Context-aware smart contracts for blockchain IoT systems
+# Context-aware smart contracts for blockchain IoT systems
 
 It contains 2 directories:
 
