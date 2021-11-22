@@ -1,4 +1,4 @@
-# Context-aware smart contracts for blockchain IoT systems
+## Context-aware smart contracts for blockchain IoT systems
 
 It contains 2 directories:
 
@@ -6,15 +6,15 @@ It contains 2 directories:
 2. 'app': contains javascript application scripts for the dApp (decentralized application).
 
 
-## DIRECTORIES
+### Directories
 
 The 'app' folder contains app.js script for connecting with the 'ContextAwareSmartContract.sol' contract.
-For the deployment of the contract, 'address' and 'totalDevicesPowerValue' should be updated (according to the devices you are testing). 
+For the deployment of the contract, 'address' and 'totalDevicesPowerValue' should be updated (according to the devices you are testing).
 
 
 To run a script, type in terminal 'sudo node app.js'. Remember, Solidity file must be compiled.
 
-## Deployment of the system
+### Deployment of the system
 
 1. Download all necessary dependencies and libraries required of your system to run and the Quorum blockchain
 Blockchain:
@@ -41,7 +41,5 @@ Sensors libraries:
 
 Output from script will appear in terminal.
 
-## iBELab - Intelligent Blockchain Engineering Lab.
-https://ibel.korea.ac.kr/
-- Korea University 
-
+### iBELab - Intelligent Blockchain Engineering Lab.
+https://ibel.korea.ac.kr/ - Korea University
