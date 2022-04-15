@@ -19,7 +19,7 @@ To run a script, type in terminal `sudo node app.js`. Remember, Solidity file mu
 1. Download all necessary dependencies and libraries required of your system to run and the Quorum blockchain
 Blockchain:
 - [Vagrant](https://www.vagrantup.com/docs/installation)
-- Virtual box/Docker
+- [Virtualbox](https://www.virtualbox.org/wiki/Downloads)/[Docker](https://docs.docker.com/engine/install/)
 
 dApp libraries:
 - [nodejs](https://nodejs.org/en/download/) 
