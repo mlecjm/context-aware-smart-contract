@@ -25,7 +25,7 @@ dApp libraries:
 - [nodejs](https://nodejs.org/en/download/) 
 - pigpio
 - OnOff
-- web3.js
+- [web3.js](https://web3js.readthedocs.io/en/v1.7.3/)
 
 Sensors libraries:
 - node-dht-sensor
